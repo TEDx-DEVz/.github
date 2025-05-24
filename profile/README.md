@@ -1,8 +1,8 @@
 <h2 align="center">Hi there! 👋 Welcome to TEDx DEVz</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TEDx-DEVz&theme=blueberry&show_icons=true&hide_border=false&count_private=false" height="150" alt="GitHub Stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TEDx-DEVz&theme=blueberry&show_icons=true&hide_border=false&layout=compact" height="150" alt="Top Languages"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=zZyreXx&theme=blueberry&show_icons=true&hide_border=false&count_private=false" height="150" alt="GitHub Stats"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zZyreXx&theme=blueberry&show_icons=true&hide_border=false&layout=compact" height="150" alt="Top Languages"  />
 </div>
 
 <img align="right" height="150" src="https://media.giphy.com/media/26FPJGjhefSJuaRhu/giphy.gif" alt="Coding Bot Animation" />
